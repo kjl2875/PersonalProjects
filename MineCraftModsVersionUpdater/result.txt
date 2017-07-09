@@ -1,0 +1,138 @@
+
+C:\vol\game\MineCraft\ModListService 고도화\20170709 운영방침 시작\MineCraftModsVersionUpdater>java -jar MineCraftModsVersionUpdater.jar "C:\Users\PUG\AppData\Roaming\.minecraft\mods" actually-additions autoreglib baubles bdlib betterfps biomes-o-plenty crop-eating-animals mrcrayfish-furniture-mod colossal-chests compact-solars compatlayer cyclops-core forestry gendustry advanced-generators immersive-craft industrial-craft iron-chests just-enough-harvestcraft just-enough-items-jei jei-bees journeymap mcjtylib morph-o-tool pams-harvestcraft reborncore rftools steves-carts-reborn worldeditcui-forge-edition-2 immersive-engineering storage-drawers cofhcore cofhcore thermalexpansion thermal-dynamics redstone-arsenal creativecore itemphysic just-enough-resources-jer chameleon codechicken-lib-1-8 mantle tinkers-construct 
+MineCraft - Mods Version Updater - v1.0
+ActuallyAdditions-1.11.2-r110.jar
+AutoRegLib-1.1-4.jar
+Baubles-1.11-1.4.5.jar
+bdlib-1.13.2.7-mc1.11.2.jar
+BetterFps-1.4.5.jar
+BiomesOPlenty-1.11.2-6.2.0.2254-universal.jar
+ceanimals-1.11.2-1.3.1.jar
+cfm-4.1.2-mc1.11.2.jar
+Chameleon-1.11.2-3.1.0.jar
+CodeChickenLib-1.11.2-2.7.0.268-universal.jar
+CoFHCore-1.11.2-4.2.3.8-universal.jar
+ColossalChests-1.11.2-1.6.1.jar
+CompactSolars-1.11.2-5.0.12.333-universal.jar
+compatlayer-1.11.2-0.2.9.jar
+CreativeCore v1.7.4 mc1.11.2.jar
+CyclopsCore-1.11.2-0.10.6.jar
+forestry_1.11.2-5.3.4.114.jar
+Galacticraft-Planets-1.11.2-4.0.0.106.jar
+GalacticraftCore-1.11.2-4.0.0.106.jar
+gendustry-1.6.5.7-mc1.11.2.jar
+generators-0.9.20.5-mc1.11.2.jar
+immcraft-1.1x-1.3.3.jar
+ImmersiveEngineering-0.11-62.jar
+industrialcraft-2-2.7.71-ex111.jar
+ironchest-1.11.2-7.0.24.809.jar
+ItemPhysic Full 1.4.5 mc1.11.2.jar
+jehc-1.11.2-1.2.2.jar
+jeibees-0.9.0.5-mc1.11.2.jar
+jei_1.11.2-4.5.0.289.jar
+journeymap-1.11.2-5.4.7.jar
+JustEnoughResources-1.11.2-0.6.2.104.jar
+Mantle-1.11.2-1.2.0.26.jar
+mcjtylib-1.1x-2.3.11.jar
+MicdoodleCore-1.11.2-4.0.0.106.jar
+Morph-o-Tool-1.1-13.jar
+OptiFine_1.11.2_HD_U_C2.jar
+Pam's HarvestCraft 1.11.2h.jar
+RebornCore-1.11.2-2.16.1.115-universal.jar
+RedstoneArsenal-1.11.2-2.2.3.5-universal.jar
+rftools-1.1x-6.01.jar
+StevesCarts-1.11.2-2.3.0.22.jar
+StorageDrawers-1.11.2-4.2.9.jar
+TConstruct-1.11.2-2.7.0.26.jar
+ThermalDynamics-1.11.2-2.2.4.7-universal.jar
+ThermalExpansion-1.11.2-5.2.3.6-universal.jar
+ThermalFoundation-1.11.2-2.2.3.5-universal.jar
+WorldEdit CUI Forge Edition 2-2.1.1-mf-1.11.2-13.20.0.2228.jar
+47mods.
+
+1: https://minecraft.curseforge.com/projects/actually-additions/files?filter-game-version=2020709689:6452
+2: https://minecraft.curseforge.com/projects/autoreglib/files?filter-game-version=2020709689:6452
+3: https://minecraft.curseforge.com/projects/baubles/files?filter-game-version=2020709689:6452
+4: https://minecraft.curseforge.com/projects/bdlib/files?filter-game-version=2020709689:6452
+5: https://minecraft.curseforge.com/projects/betterfps/files?filter-game-version=2020709689:6452
+6: https://minecraft.curseforge.com/projects/biomes-o-plenty/files?filter-game-version=2020709689:6452
+7: https://minecraft.curseforge.com/projects/crop-eating-animals/files?filter-game-version=2020709689:6452
+8: https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files?filter-game-version=2020709689:6452
+9: https://minecraft.curseforge.com/projects/colossal-chests/files?filter-game-version=2020709689:6452
+10: https://minecraft.curseforge.com/projects/compact-solars/files?filter-game-version=2020709689:6452
+11: https://minecraft.curseforge.com/projects/compatlayer/files?filter-game-version=2020709689:6452
+12: https://minecraft.curseforge.com/projects/cyclops-core/files?filter-game-version=2020709689:6452
+13: https://minecraft.curseforge.com/projects/forestry/files?filter-game-version=2020709689:6452
+14: https://minecraft.curseforge.com/projects/gendustry/files?filter-game-version=2020709689:6452
+15: https://minecraft.curseforge.com/projects/advanced-generators/files?filter-game-version=2020709689:6452
+16: https://minecraft.curseforge.com/projects/immersive-craft/files?filter-game-version=2020709689:6452
+17: https://minecraft.curseforge.com/projects/industrial-craft/files?filter-game-version=2020709689:6452
+18: https://minecraft.curseforge.com/projects/iron-chests/files?filter-game-version=2020709689:6452
+19: https://minecraft.curseforge.com/projects/just-enough-harvestcraft/files?filter-game-version=2020709689:6452
+20: https://minecraft.curseforge.com/projects/just-enough-items-jei/files?filter-game-version=2020709689:6452
+21: https://minecraft.curseforge.com/projects/jei-bees/files?filter-game-version=2020709689:6452
+22: https://minecraft.curseforge.com/projects/journeymap/files?filter-game-version=2020709689:6452
+23: https://minecraft.curseforge.com/projects/mcjtylib/files?filter-game-version=2020709689:6452
+24: https://minecraft.curseforge.com/projects/morph-o-tool/files?filter-game-version=2020709689:6452
+25: https://minecraft.curseforge.com/projects/pams-harvestcraft/files?filter-game-version=2020709689:6452
+26: https://minecraft.curseforge.com/projects/reborncore/files?filter-game-version=2020709689:6452
+27: https://minecraft.curseforge.com/projects/rftools/files?filter-game-version=2020709689:6452
+28: https://minecraft.curseforge.com/projects/steves-carts-reborn/files?filter-game-version=2020709689:6452
+29: https://minecraft.curseforge.com/projects/worldeditcui-forge-edition-2/files?filter-game-version=2020709689:6452
+30: https://minecraft.curseforge.com/projects/immersive-engineering/files?filter-game-version=2020709689:6452
+31: https://minecraft.curseforge.com/projects/storage-drawers/files?filter-game-version=2020709689:6452
+32: https://minecraft.curseforge.com/projects/cofhcore/files?filter-game-version=2020709689:6452
+33: https://minecraft.curseforge.com/projects/cofhcore/files?filter-game-version=2020709689:6452
+34: https://minecraft.curseforge.com/projects/thermalexpansion/files?filter-game-version=2020709689:6452
+35: https://minecraft.curseforge.com/projects/thermal-dynamics/files?filter-game-version=2020709689:6452
+36: https://minecraft.curseforge.com/projects/redstone-arsenal/files?filter-game-version=2020709689:6452
+37: https://minecraft.curseforge.com/projects/creativecore/files?filter-game-version=2020709689:6452
+38: https://minecraft.curseforge.com/projects/itemphysic/files?filter-game-version=2020709689:6452
+39: https://minecraft.curseforge.com/projects/just-enough-resources-jer/files?filter-game-version=2020709689:6452
+40: https://minecraft.curseforge.com/projects/chameleon/files?filter-game-version=2020709689:6452
+41: https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files?filter-game-version=2020709689:6452
+42: https://minecraft.curseforge.com/projects/mantle/files?filter-game-version=2020709689:6452
+43: https://minecraft.curseforge.com/projects/tinkers-construct/files?filter-game-version=2020709689:6452
+1: release: ActuallyAdditions-1.11.2-r110
+2: (samefile in mods directory) release: AutoRegLib-1.1-4.jar
+3: (samefile in mods directory) release: Baubles-1.11-1.4.5.jar
+4: beta: BDLib 1.13.1.4 (MC 1.11.2)
+5: release: v1.4.5
+6: (samefile in mods directory) release: BiomesOPlenty-1.11.2-6.2.0.2254-universal.jar
+7: (samefile in mods directory) release: ceanimals-1.11.2-1.3.1.jar
+8: (samefile in mods directory) release: cfm-4.1.2-mc1.11.2.jar
+9: release: ColossalChests-1.11.2-1.6.2.jar
+10: (samefile in mods directory) beta: CompactSolars-1.11.2-5.0.12.333-universal.jar
+11: (samefile in mods directory) release: compatlayer-1.11.2-0.2.9.jar
+12: (samefile in mods directory) release: CyclopsCore-1.11.2-0.10.6.jar
+13: alpha: forestry_1.11.2-5.3.3.93.jar
+14: beta: Gendustry 1.6.5.4 (MC 1.11.2)
+15: beta: Advanced Generators 0.9.20.3 (MC 1.11.2)
+16: (samefile in mods directory) release: immcraft-1.1x-1.3.3.jar
+17: release: industrialcraft-2-2.7.74-ex111.jar
+18: beta: ironchest-1.11.2-7.0.18.800.jar
+19: release: [1.11.2] JEHC 1.2.2
+20: (samefile in mods directory) release: jei_1.11.2-4.5.0.289.jar
+21: beta: JEI Bees 0.9.0.4 (MC 1.11.2)
+22: release: journeymap-1.11.2-5.4.7
+23: release: mcjtylib-1.1x-2.4.3.jar
+24: (samefile in mods directory) release: Morph-o-Tool-1.1-13.jar
+25: (samefile in mods directory) release: Pam's HarvestCraft 1.11.2h.jar
+26: (samefile in mods directory) release: RebornCore-1.11.2-2.16.1.115-universal.jar
+27: release: rftools-1.1x-6.10.jar
+28: (samefile in mods directory) release: StevesCarts-1.11.2-2.3.0.22.jar
+29: (samefile in mods directory) release: WorldEdit CUI Forge Edition 2-2.1.1-mf-1.11.2-13.20.0.2228.jar
+30: release: Immersive Engineering 0.11 - 63
+31: release: StorageDrawers-1.11.2-4.2.10.jar
+32: release: CoFHCore-1.11.2-4.2.6.13-universal.jar
+33: release: CoFHCore-1.11.2-4.2.6.13-universal.jar
+34: release: ThermalExpansion-1.11.2-5.2.5.18-universal.jar
+35: release: ThermalDynamics-1.11.2-2.2.5.10-universal.jar
+36: release: RedstoneArsenal-1.11.2-2.2.5.8-universal.jar
+37: (samefile in mods directory) release: CreativeCore v1.7.4 mc1.11.2.jar
+38: (samefile in mods directory) release: ItemPhysic Full 1.4.5 mc1.11.2.jar
+39: release: JustEnoughResources-1.11.2-0.6.6.12
+40: (samefile in mods directory) release: Chameleon-1.11.2-3.1.0.jar
+41: release: CodeChicken Lib 1.11.2-3.0.0.284-universal
+42: (samefile in mods directory) release: Mantle-1.11.2-1.2.0.26.jar
+43: (samefile in mods directory) release: TConstruct-1.11.2-2.7.0.26.jar
