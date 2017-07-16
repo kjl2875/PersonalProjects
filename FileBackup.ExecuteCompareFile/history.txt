@@ -1,0 +1,2 @@
+2017-07-16 FileBackup.ExecuteCompareFile: 대충 함. FileBackup.DirectoryHashCompare의 연장선
+
