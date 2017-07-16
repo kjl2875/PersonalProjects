@@ -326,7 +326,7 @@ public class FileBackup
 			
 			e0 = new JsonObject();
 			e0.addProperty("newDirectoryPath", t1path.getPath());
-			e0.addProperty("oldDirectoryPath", t0path.getPath());
+			e0.addProperty("oldDirectoryPath", (t0path != null) ? t0path.getPath() : null);
 			json.add("filepath", e0);
 			
 			e0 = new JsonObject();
