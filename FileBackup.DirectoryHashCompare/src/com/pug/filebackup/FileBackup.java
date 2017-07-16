@@ -46,7 +46,7 @@ public class FileBackup
 		System.out.println("알고리즘 참고링크 - MessageDigest Algorithms) " + url);
 		System.out.println();
 		System.out.println(String.format("출력내용 Original ex.) [same|add|modify|delete|(-i옵션 없으면 표시되지 않는 항목)][spliterator][path][spliterator][hash]"));
-		System.out.println("출력내용 Json ex.) {\"processTimeMilliseconds\":{\"startTime\":\"2017-07-16T10:54:13.101+0000\",\"endTime\":\"2017-07-16T10:54:14.149+0000\",\"runTime\":1048},\"filepath\":{\"newDirectoryPath\":\"X:\\bak\\server_real.world_20170709_2341\",\"oldDirectoryPath\":\"X:\\bak\\server_real.world_20170629_1730\",\"outputFilePath\":\"X:\\bak\\output.json\"},\"options\":{\"hash\":\"sha-512\"},\"files\":[{\"tag\":\"add\",\"path\":\"\\world\\DIM-1\\region\\r.-2.-2.mca\",\"hash\":\"3fd19fb966bee54299a4e1f1899ca5656bdcd31aab8f18ea4ea296ba927eace953ba3e13f396a41da82a3b59cc88aaae8419b2d1229ed69718a86c356feac7\"},{\"tag\":\"modify\",\"path\":\"\\world\\stats\\184b3a84-4a77-43d2-9ec4-e6f0e6b32855.json\",\"hash\":\"36a524f9ae4ca46f67a2d3e755166e5010487449ae6eb8aee40c1a2ffd6cc21c2e17b6e1e0d67f7ed88e95b0e8cdc866c199935f5cdac5441babfaeb3\"}]}");
+		System.out.println("출력내용 Json ex.) {\"processTimeMilliseconds\":{\"startTime\":\"2017-07-16T10:54:13.101+0000\",\"endTime\":\"2017-07-16T10:54:14.149+0000\",\"runTime\":1048},\"filepath\":{\"newDirectoryPath\":\"X:\\bak\\server_real.world_20170709_2341\",\"oldDirectoryPath\":\"X:\\bak\\server_real.world_20170629_1730\"},\"options\":{\"hash\":\"sha-512\"},\"files\":[{\"tag\":\"add\",\"path\":\"\\world\\DIM-1\\region\\r.-2.-2.mca\",\"hash\":\"3fd19fb966bee54299a4e1f1899ca5656bdcd31aab8f18ea4ea296ba927eace953ba3e13f396a41da82a3b59cc88aaae8419b2d1229ed69718a86c356feac7\"},{\"tag\":\"modify\",\"path\":\"\\world\\stats\\184b3a84-4a77-43d2-9ec4-e6f0e6b32855.json\",\"hash\":\"36a524f9ae4ca46f67a2d3e755166e5010487449ae6eb8aee40c1a2ffd6cc21c2e17b6e1e0d67f7ed88e95b0e8cdc866c199935f5cdac5441babfaeb3\"}]}");
 		/*
 			{
 			  "processTimeMilliseconds": {
@@ -56,8 +56,7 @@ public class FileBackup
 			  },
 			  "filepath": {
 			    "newDirectoryPath": "X:\\bak\\server_real.world_20170709_2341",
-			    "oldDirectoryPath": "X:\\bak\\server_real.world_20170629_1730",
-			    "outputFilePath": "X:\\bak\\output.json"
+			    "oldDirectoryPath": "X:\\bak\\server_real.world_20170629_1730"
 			  },
 			  "options": {
 			    "hash": "sha-512"
@@ -317,6 +316,8 @@ public class FileBackup
 		{
 			JsonObject e0;
 			
+			json.addProperty("version", version);
+			
 			e0 = new JsonObject();
 			e0.addProperty("startTime", sStartTime);
 			e0.addProperty("endTime", sEndTime);
@@ -326,7 +327,6 @@ public class FileBackup
 			e0 = new JsonObject();
 			e0.addProperty("newDirectoryPath", t1path.getPath());
 			e0.addProperty("oldDirectoryPath", t0path.getPath());
-			e0.addProperty("outputFilePath", oPath.getPath());
 			json.add("filepath", e0);
 			
 			e0 = new JsonObject();
