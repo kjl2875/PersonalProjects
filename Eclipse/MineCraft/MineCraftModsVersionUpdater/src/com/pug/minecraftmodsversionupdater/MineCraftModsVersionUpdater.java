@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URL;
+import java.net.URLDecoder;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
@@ -19,6 +20,7 @@ import org.jsoup.select.Elements;
 public class MineCraftModsVersionUpdater
 {
 	final static String configPropertiesFilePath = "config.properties";
+	final static String encoding = "UTF-8";
 	static String modsPath;
 	static ArrayList<String> curseforgeProjectUrlList;
 
@@ -211,6 +213,8 @@ public class MineCraftModsVersionUpdater
 				}
 			}
 		}
+		
+		rFilename = URLDecoder.decode(rFilename, encoding);
 		
 		// search same filename in modList // TODO 검색 알고리즘좀 효율적으로...
 		
